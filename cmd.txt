@@ -1,1 +1,2 @@
 chkdsk /r (here driveName like : j,k etc):
+CONVERT (DRIVE LETTER): /FS:NTFS /NOSECURITY
