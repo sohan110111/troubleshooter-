@@ -1,0 +1,1 @@
+chkdsk /r (here driveName like : j,k etc):
