@@ -1,2 +1,3 @@
 chkdsk /r (here driveName like : j,k etc):
 CONVERT (DRIVE LETTER): /FS:NTFS /NOSECURITY
+chkdsk j(drive latter): /f /r /x
