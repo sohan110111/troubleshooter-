@@ -1,0 +1,2 @@
+What is the best setting size for virtual memory?
+Note: Microsoft recommends that virtual memory be set at no less than 1.5 times and no more than 3 times the amount of RAM on the computer. For power PC owners (most UE/UC users), there is likely at least 2 GB of RAM, so the virtual memory can be set up to 6,144 MB (6 GB). (source from google)
