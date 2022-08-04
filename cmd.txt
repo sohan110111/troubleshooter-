@@ -1,3 +1,4 @@
 chkdsk /r (here driveName like : j,k etc):
 CONVERT (DRIVE LETTER): /FS:NTFS /NOSECURITY
 chkdsk j(drive latter): /f /r /x
+wmic memorychip get devicelocator, manufacturer, partnumber, serialnumber, capacity, speed, momorytype [check RAM Bus speed]
